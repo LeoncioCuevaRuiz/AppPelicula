@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppPelicula</string>
+
+    /* LOGIN */
+    <string name="user_name">Name</string>
+    <string name="user_password">Password</string>
+    <string name="bt_login">LOGIN</string>
+    <string name="bt_recover_password">Recuperar Contraseña</string>
+    <string name="bt_Ingresar">Ingresar</string>
+    <string name="bt_Registrarse">Registrarse</string>
+    <string name="user_email">Correo</string>
+    <string name="user_phone">Telefono</string>
+    <string name="user_surname">Apellidos</string>
+    <string name="bt_register">Registrar</string>
+
+    /* Navigation_Drawer */
+    <string name="Profile">Perfil</string>
+    <string name="Messages">Mensajes</string>
+    <string name="Friends">Amigos</string>
+    <string name="Account_Settings">Ajustes</string>
+    <string name="Edit_Profile">Editar Perfil</string>
+    <string name="Sign_off">Cerrar Sesion</string>
+
+</resources>
