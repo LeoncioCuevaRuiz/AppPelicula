@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981611009122",
+    "firebase_url": "https://apppelicula-a7990.firebaseio.com",
+    "project_id": "apppelicula-a7990",
+    "storage_bucket": "apppelicula-a7990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981611009122:android:c177815510ed66e9f12d3b",
+        "android_client_info": {
+          "package_name": "com.practicando.apppelicula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981611009122-c1ktsj5i185tsk2om2meo5a2j4l00bkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEILlUwUP2cJoZv8qJZ1xOjJSiwSE0qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981611009122-c1ktsj5i185tsk2om2meo5a2j4l00bkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
